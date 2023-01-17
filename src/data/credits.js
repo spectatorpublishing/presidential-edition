@@ -7,11 +7,11 @@ export const credits = {
     "Engineering": [
         {
           "staff_name": "Marian Abuhazi",
-          "title": "Engineering Manager"
+          "title": "Head of Engineering"
         },
         {
           "staff_name": "Laura Castro Venegas",
-          "title": "Special Engineering Manager"
+          "title": "Engineering Manager"
         }
       ],
     "Product":[
@@ -121,10 +121,6 @@ export const credits = {
         {
           "staff_name": "Milène Klein",
           "title": "Editorial Page Editor"
-        },
-        {
-          "staff_name": "Milène Klein",
-          "title": "Deputy Editorial Page Editor"
         },
         {
           "staff_name": "Sydney Goldson",
