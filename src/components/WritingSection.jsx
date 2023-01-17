@@ -105,14 +105,16 @@ const Author = styled.p`
   line-height: 29px;
   flex: none;
   order: 1;
-  margin: 8px 0px;
+  margin: 20px 0px 0px 0px;
 `;
 
 const WritingSection = ({ title, articles, linePosition }) => {
   return (
     <div>
     <Header>
-      <Title>_______________ to serve as Columbia's 20th President</Title>
+      <a href="https://www.columbiaspectator.com/" style={{textDecoration:'none'}}>
+      <Title>Marian Abuhazi to serve as Columbia's 20th President</Title>
+      </a>
       <Hr/>
       <Image src="https://cloudfront-us-east-1.images.arcpublishing.com/spectator/Z6BIOOCCKNCCNHGBIAEXDH6WXY.jpg"/>
       <ArticleText>
