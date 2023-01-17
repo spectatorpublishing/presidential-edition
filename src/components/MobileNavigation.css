@@ -30,8 +30,8 @@ body {
   
   /* Position and sizing of clickable cross button */
   .bm-cross-button {
-    height: 15px;
-    width: 15px;
+    height: 12px;
+    width: 12px;
     display: none;
   }
   

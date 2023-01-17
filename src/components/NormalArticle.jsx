@@ -58,7 +58,7 @@ const ArticleText = styled.div`
   font-weight: normal;
   font-size: 16px;
   line-height: 20px;
-  color:#1D548A;
+  color:#424242;
   flex: none;
   order: 1;
   margin: 12px 0px;

@@ -18,15 +18,16 @@ const Title = styled.p`
   text-align: ${(prop) => (prop.linePosition === "after" ? "left" : "right")};
 
   @media (max-width:${size.mobile}) {
-    font-size: 2rem;   
+    font-size: 2rem;  
+    margin-top:0;
   }
   /* Blue 02 */
 
-  color: #1D548A;
+  color: #424242;
 `;
 
 const Hr = styled.hr`
-  border: 1px solid #1D548A;
+  border: 1px solid #424242;
   margin:0;
 `
 const SectionTitle = ({ linePosition, title }) => {

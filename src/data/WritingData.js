@@ -130,6 +130,16 @@ const WritingData = {
       img: "https://cloudfront-us-east-1.images.arcpublishing.com/spectator/MKIV52ONRBGVPJ2YSHPB5FDTTU.jpg",
       type: "normal"
     },
+  ],
+  "photo essay": [
+    {
+      title:
+        "In a ‘Lighter Equals Faster’ Culture, Runners Must Combat a Culture of Disordered Eating",
+      link: "https://www.columbiaspectator.com/the-eye/2021/02/10/in-a-lighter-equals-faster-culture-runners-must-combat-a-culture-of-disordered-eating/",
+      author: "Jade Justice and Elizabeth Karpen",
+      img: "https://cloudfront-us-east-1.images.arcpublishing.com/spectator/EBNTW5T7JFHHHFME4GD5DBO6Y4.gif",
+      type: "big"
+    }
   ]
 };
 

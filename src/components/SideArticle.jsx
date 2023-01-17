@@ -57,7 +57,7 @@ const ArticleText = styled.div`
   order: 1;
   flex-grow: 0;
   width: 32vw;
-  color:#1D548A;
+  color:#424242;
 `;
 
 const Title = styled.p`

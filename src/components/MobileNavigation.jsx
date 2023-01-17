@@ -14,8 +14,6 @@ const NavWrap = styled.div`
     justify-content: space-between;
     align-items:center;
     display:flex;
-    position:sticky;
-    top:0;
     left:0;
     flex-wrap: wrap;
     z-index:100;
@@ -29,6 +27,9 @@ const Navigation = styled.div`
     @media (min-width: 769px) {
        display:none;
     } 
+    z-index:100;
+    position:sticky;
+    top:0;
 `
 
 const Tab = styled.div`
@@ -44,15 +45,16 @@ const Logo = styled.div`
 `;
 
 const LogoImage = styled.img`
-    width:30%;
+    width:25%;
     padding-bottom:1rem;
 `
 const Title = styled.h1`
     font-family:"Montserrat";
     font-weight:600;
+    position:relative;
     background-color:#424242;
     color:white;
-    font-size:1.3rem;
+    font-size:1.2rem;
     padding:1rem 1rem;
     padding-top:0rem;
     margin:0;
