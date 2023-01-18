@@ -96,7 +96,7 @@ const NormalArticle = ({ article }) => {
         <ArticleImg src={article.img} />
         <ArticleText>
           <Title>{article.title}</Title>
-          <Author>{article.author}</Author>
+          <Author>By: {article.author}</Author>
         </ArticleText>
       </Link>
     </ArticleWrap>

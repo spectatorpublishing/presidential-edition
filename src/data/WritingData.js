@@ -15,14 +15,14 @@ const WritingData = {
       img: "https://cloudfront-us-east-1.images.arcpublishing.com/spectator/SASDEAIILFA2BF6NV63SFGKZFI.jpg",
       type:"normal",
     },
-    // {
-    //   title:
-    //     "Unprepared and isolated, RAs struggle to care for themselves and residents",
-    //   link: "https://www.columbiaspectator.com/news/2021/11/04/unprepared-and-isolated-ras-struggle-to-care-for-themselves-and-residents/",
-    //   author: "Stella Pagkas",
-    //   img: "https://cloudfront-us-east-1.images.arcpublishing.com/spectator/JT5KU6SK4VHXXFD336ZCF5OFZA.jpg",
-    //   type:"normal",
-    // },
+    {
+      title:
+        "Beilock commends Shafik’s appointment",
+      link: "https://www.columbiaspectator.com/news/2023/01/18/beilock-commends-shafiks-appointment/",
+      author: "Apurva Chakravarthy and Shea Vance",
+      img: "https://cloudfront-us-east-1.images.arcpublishing.com/spectator/2GSAHHY3H5BP3JHKBPOVSPO2QI.jpg",
+      type:"normal",
+    },
     // {
     //   title:
     //     "First-generation low-income commuter students grapple with accessibility to campus resources, community visibility, and social support",
