@@ -19,8 +19,8 @@ export const sections = [
     //     title: "Photo",
     //     url: "/#photo",
     // },
-    // {
-    //     title: "Credits",
-    //     url: "/#credits",
-    // }
+    {
+        title: "Credits",
+        url: "/#credits",
+    }
 ];

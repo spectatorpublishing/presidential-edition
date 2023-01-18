@@ -2,7 +2,7 @@ const WritingData = {
   university: [
     {
       title:
-        "Nemat ‘Minouche’ Shafik trailblazes as Columbia’s first woman and person of color to be announced as president",
+        "Shafik trailblazes as Columbia’s first woman and person of color to be announced as president",
       link: "https://www.columbiaspectator.com/news/2023/01/18/nemat-minouche-shafik-trailblazes-as-columbias-first-woman-or-person-of-color-to-be-announced-as-president/",
       author: "Sabrina Ticur-Wurr and Sara Kirkham",
       img: "https://cloudfront-us-east-1.images.arcpublishing.com/spectator/7FTS6XBOY5FQRH6QFFERWHWJOU.jpg",
@@ -23,15 +23,23 @@ const WritingData = {
       img: "https://cloudfront-us-east-1.images.arcpublishing.com/spectator/2GSAHHY3H5BP3JHKBPOVSPO2QI.jpg",
       type:"normal",
     },
-    // {
-    //   title:
-    //     "First-generation low-income commuter students grapple with accessibility to campus resources, community visibility, and social support",
-    //   link: "https://www.columbiaspectator.com/news/2021/11/04/first-generation-low-income-commuter-students-grapple-with-accessibility-to-campus-resources-community-visibility-and-social-support/",
-    //   author: "Isabella Ramírez",
-    //   img: "https://cloudfront-us-east-1.images.arcpublishing.com/spectator/WWSWYBZA3BBUFMQGDI7GFHB474.jpg",
-    //   type:"left"
-    // },
-  // ],
+    {
+      title:
+        "A vision for a new Columbia: Shafik brings global scholarship and interest in diversity to presidency",
+      link: "https://www.columbiaspectator.com/news/2023/01/18/a-vision-for-a-new-columbia-shafik-brings-global-scholarship-and-interest-in-diversity-to-presidency/",
+      author: "Isabella Ramírez",
+      img: "https://cloudfront-us-east-1.images.arcpublishing.com/spectator/ZINTXMDYG5GVXF43KWLMXXSR2E.jpg",
+      type:"left"
+    },
+    {
+      title:
+        "How does the London School of Economics compare to Columbia",
+      link: "https://www.columbiaspectator.com/news/2023/01/18/how-does-the-london-school-of-economics-compare-to-columbia/",
+      author: "Zachary Schermele",
+      img: "https://cloudfront-us-east-1.images.arcpublishing.com/spectator/ZQSHDK43RBCGTP75JJMXGOCBJY.jpg",
+      type:"right"
+    }
+  ],
   // city: [
   //   {
   //     title:
@@ -140,7 +148,7 @@ const WritingData = {
   //     img: "https://cloudfront-us-east-1.images.arcpublishing.com/spectator/EBNTW5T7JFHHHFME4GD5DBO6Y4.gif",
   //     type: "big"
   //   }
-  ]
+  //]
 };
 
 export default WritingData;
