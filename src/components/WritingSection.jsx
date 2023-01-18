@@ -6,14 +6,20 @@ import { size } from "../device";
 
 const SectionsWrapper = styled.div`
   position:relative;
-  top:32rem;
+  top:36rem;
   width:78%;
   padding-left:18%;
   margin-bottom:0;
+  @media (max-width:1000px) {
+    top:40rem;
+  }
   @media (max-width:${size.tablet}) {
     width:100%; 
     padding-left:0%;
-    top:60rem;
+    top:51rem;
+  }
+  @media (max-width:380px) {
+    top:52rem;
   }
   bottom:0;
 `
@@ -25,7 +31,6 @@ const Title = styled.h1`
   font-size: 2rem;
   text-transform: capitalize;
   color: #424242;
-  opacity:0.8;
   @media (max-width:${size.tablet}) {
     text-align:center;
     font-size: 1.45rem;
@@ -50,8 +55,13 @@ const Image = styled.img`
   width:40rem;
   height:auto;
   margin-left:1rem;
-  margin-top:2rem;
+  margin-top:3rem;
   box-shadow: 2px 2px 10px rgba(115, 115, 115, 0.9);
+
+  @media (max-width:900px) {
+    width:92%;
+  }
+
   @media (max-width:${size.tablet}) {
     display:block;
     width:85%;
@@ -81,7 +91,10 @@ const ArticleText = styled.div`
   order: 1;
   margin-left:1rem;
   margin-top:1rem;
-  opacity:0.6;
+  opacity:0.95;
+  @media (max-width:1000px)  {
+    margin-top:1.5rem;
+  }
   @media (max-width:${size.tablet})  {
     padding:0rem 1rem;
   }
@@ -95,6 +108,10 @@ const Description = styled.p`
   flex: none;
   order: 0;
   margin: 8px 0px;
+  font-style: italic;
+  @media (min-width:1000px)  {
+    width:85%;
+  }
 `;
 
 const Author = styled.p`
@@ -111,20 +128,17 @@ const Author = styled.p`
 const WritingSection = ({ title, articles, linePosition }) => {
   return (
     <div>
+    <a href="https://www.columbiaspectator.com/news/2023/01/18/nemat-minouche-shafik-to-lead-columbia-as-20th-university-president/" style={{textDecoration:'none', cursor:'pointer'}}>
     <Header>
-      <a href="https://www.columbiaspectator.com/" style={{textDecoration:'none'}}>
-      <Title>Marian Abuhazi to serve as Columbia's 20th President</Title>
-      </a>
+      <Title>Nemat ‘Minouche’ Shafik to lead Columbia as 20th University President</Title>
       <Hr/>
-      <Image src="https://cloudfront-us-east-1.images.arcpublishing.com/spectator/Z6BIOOCCKNCCNHGBIAEXDH6WXY.jpg"/>
+      <Image src="https://cloudfront-us-east-1.images.arcpublishing.com/spectator/XYLHK2ST4JHLTKDB3JORMYLL7Q.jpg"/>
       <ArticleText>
-          <Description>Overwhelmed college counseling services struggle to offer all students immediate access to care. 
-            Overwhelmed college counseling services struggle to offer all students immediate access to care. 
-            Overwhelmed college counseling services struggle to offer all students immediate access to care
-            Overwhelmed college counseling services struggle to offer all students immediate access to care</Description>
-          <Author>Jane Doe and John Doe</Author>
+          <Description>Nemat “Minouche” Shafik will serve as Columbia’s 20th President, the University announced Wednesday morning, marking the first time in the institution’s 269-year history that a woman or a person of color will hold the top post.</Description>
+          <Author>By: Esha Karam and Isabella Ramírez</Author>
         </ArticleText>
     </Header>
+    </a>
 
     <SectionsWrapper>
       {/* eslint-disable-next-line jsx-a11y/anchor-is-valid */}

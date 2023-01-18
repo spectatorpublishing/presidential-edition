@@ -8,11 +8,11 @@ const Container = styled.div`
     background-color: #F8F4EF;
     color: #424242;
     position:relative;
-    margin-top:45rem;
+    margin-top:40rem;
     margin-bottom:0;
     bottom:0;
     @media only screen and (max-width:${size.tablet}){
-        margin-top:60rem;
+        margin-top:55rem;
     }
 `;
 
@@ -111,9 +111,17 @@ const Name = styled.div`
     }
 `;
 
+const Hr = styled.hr`
+  border: 1px solid #424242;
+  margin:0;
+  padding:0;
+  opacity:0.8;
+`
+
 const Credits = () => {
     return (
         <Container id="credits">
+            <Hr/>
             <HeaderDiv><Header>THE COLUMBIA DAILY SPECTATOR STAFF WHO MADE THIS ISSUE POSSIBLE</Header></HeaderDiv>
             <SectAndNames>
                 {Object.entries(credits).map(([section, key]) => {

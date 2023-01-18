@@ -7,20 +7,20 @@ export const sections = [
         title: "University",
         url: "/#university",
     },
-    {
-        title: "City",
-        url: "/#city",
-    },
-    {
-        title: "Opinion",
-        url: "/#opinion",
-    },
-    {
-        title: "Photo",
-        url: "/#photo",
-    },
-    {
-        title: "Credits",
-        url: "/#credits",
-    }
+    // {
+    //     title: "City",
+    //     url: "/#city",
+    // },
+    // {
+    //     title: "Opinion",
+    //     url: "/#opinion",
+    // },
+    // {
+    //     title: "Photo",
+    //     url: "/#photo",
+    // },
+    // {
+    //     title: "Credits",
+    //     url: "/#credits",
+    // }
 ];

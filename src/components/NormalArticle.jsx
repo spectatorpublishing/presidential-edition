@@ -47,7 +47,7 @@ const ArticleImg = styled.img`
     left: 0px;
     top: 0px;
     width: 100%;
-    height: 60vw;
+    height: 65vw;
     margin-bottom:0.5rem;
     border-radius: 0;
   }
