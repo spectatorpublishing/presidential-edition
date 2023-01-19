@@ -35,7 +35,7 @@ const WritingData = {
       title:
         "‘Extraordinarily talented’: Faculty express support for Shafik",
       link: "https://www.columbiaspectator.com/news/2023/01/18/extraordinarily-talented-faculty-express-support-for-shafik/",
-      author: "Eliana Goldin, John Towfighi",
+      author: "Eliana Goldin and John Towfighi",
       img: "https://cloudfront-us-east-1.images.arcpublishing.com/spectator/QSZFCW4HMJCD5GPB7CCMLGINFY.jpg",
       type:"normal"
     },
@@ -59,7 +59,7 @@ const WritingData = {
       title:
         "Widespread administrative turnover coincides with Shafik’s presidential appointment",
       link: "https://www.columbiaspectator.com/news/2023/01/18/widespread-administrative-turnover-coincides-with-shafiks-presidential-appointment/",
-      author: "Shea Vance, John Towfighi, Ariel Yu",
+      author: "Shea Vance, John Towfighi, and Ariel Yu",
       img: "https://cloudfront-us-east-1.images.arcpublishing.com/spectator/CHQ5PBWAB5CEBNNN37JCQFDL2U.jpg",
       type:"normal"
     },

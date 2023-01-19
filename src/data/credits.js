@@ -36,20 +36,12 @@ export const credits = {
         "title": "Senior Staff Writer"
       },
       {
-        "staff_name": "Stella Pagkas",
-        "title": "Senior Staff Writer"
-      },
-      {
         "staff_name": "Sara Kirkham",
         "title": "Senior Staff Writer"
       },
  {
         "staff_name": "Eliana Goldin",
         "title": "Senior Staff Writer"
-      },
-      {
-        "staff_name": "Lina Huang",
-        "title": "Staff Writer"
       },
       {
         "staff_name": "Sabrina Ticer-Wurr",
@@ -67,23 +59,15 @@ export const credits = {
         "staff_name": "Shea Vance",
         "title": "Staff Writer"
       },
-{
+      {
         "staff_name": "John Towfighi",
         "title": "Staff Writer"
       },
-{
-        "staff_name": "Amanda R. Chapa",
-        "title": "Staff Writer"
-      },
-{
-        "staff_name": "Amanda R. Chapa",
-        "title": "Staff Writer"
-      },
-{
+      {
         "staff_name": "Ayaan Ali",
         "title": "Staff Writer"
       },
-{
+      {
         "staff_name": "Apurva Chakravarthy",
         "title": "Staff Writer"
       },
@@ -153,6 +137,14 @@ export const credits = {
       {
         "staff_name": "Judy Goldstein",
         "title": "Photo Editor"
+      },
+      {
+        "staff_name": "Jessica Samudio",
+        "title": "Senior Staff Photographer"
+      },
+      { 
+        "staff_name": "Pippa Tsuki Carlson",
+        "title": "Senior Staff Photographer"
       }
     ],
   "Copy": [
@@ -180,12 +172,12 @@ export const credits = {
         "staff_name": "Sadie Rochman",
         "title": "Deputy Copy Editor"
       },
-{
+      {
         "staff_name": "Yvin Shin",
         "title": "Deputy Copy Editor"
       },
 
-{
+      {
         "staff_name": "Kaylene Chong",
         "title": "Deputy Copy Editor"
       },
@@ -229,11 +221,11 @@ export const credits = {
         "staff_name": "Reena Bromberg Gaber",
         "title": "Associate Copy Editor"
       },
-{
+      {
         "staff_name": "Safia Aladlouni",
         "title": "Associate Copy Editor"
       },
-{
+      {
         "staff_name": "Sophia Lee",
         "title": "Associate Copy Editor"
       },

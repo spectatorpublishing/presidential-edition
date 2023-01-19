@@ -90,7 +90,7 @@ const SideArticle = ({ article, left }) => {
           <ArticleImgLeft src={article.img} />
           <ArticleText style={{ float: "right", paddingRight: "5%" }}>
             <Title>{article.title}</Title>
-            <Author>{article.author}</Author>
+            <Author>By: {article.author}</Author>
           </ArticleText>
         </Link>
       </ArticleWrap>
@@ -102,7 +102,7 @@ const SideArticle = ({ article, left }) => {
           <ArticleImgRight src={article.img} />
           <ArticleText float={"left"}>
             <Title>{article.title}</Title>
-            <Author>{article.author}</Author>
+            <Author>By: {article.author}</Author>
           </ArticleText>
         </Link>
       </ArticleWrap>
