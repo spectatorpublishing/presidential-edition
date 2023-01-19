@@ -11,14 +11,14 @@ export const sections = [
     //     title: "City",
     //     url: "/#city",
     // },
-    // {
-    //     title: "Opinion",
-    //     url: "/#opinion",
-    // },
-    // {
-    //     title: "Photo",
-    //     url: "/#photo",
-    // },
+    {
+        title: "Opinion",
+        url: "/#opinion",
+    },
+    {
+        title: "Photo",
+        url: "/#photo",
+    },
     {
         title: "Credits",
         url: "/#credits",
