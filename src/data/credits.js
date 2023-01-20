@@ -190,12 +190,12 @@ export const credits = {
         "title": "Associate Copy Editor"
       },
       {
-        "staff_name": "Rose Leveen",
+        "staff_name": "Ainhoa Petri-Hidalgo",
         "title": "Associate Copy Editor"
       },
       {
-        "staff_name": "Ainhoa Petri-Hidalgo",
-        "title": "Associate Copy Editor"
+        "staff_name": "Rose Leveen",
+        "title": "Preslotter"
       },
       {
         "staff_name": "Pun Setpattanachai",
