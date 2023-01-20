@@ -8,7 +8,7 @@ const Container = styled.div`
     background-color: #F8F4EF;
     color: #424242;
     position:relative;
-    margin-top:40rem;
+    margin-top:50rem;
     margin-bottom:0;
     bottom:0;
     @media only screen and (max-width:${size.tablet}){
@@ -28,11 +28,12 @@ const Header = styled.h1`
     font-family: 'IBM Plex Serif', 'Georgia', Times, serif;
     padding-top:2rem;
     @media only screen and (max-width: 1216px){
-        font-size: 2.1rem;
+        width: 68%;
+        font-size: 1.8rem;
     }
     @media only screen and (max-width: 768px){
         width: 80%;
-        font-size: 2rem;
+        font-size: 1.5rem;
     }
     @media only screen and (max-width: 600px){
         font-weight: 400;
@@ -47,13 +48,16 @@ const SectAndNames = styled.div`
     flex-wrap: wrap;
     align-content:space-around;
     width: 100%;
-    height: 150rem;
+    height: 100rem;
     margin-top: 2rem;
     @media only screen and (max-width: 1216px){
-        height: 160rem;
+        height: 115rem;
     }
     @media only screen and (max-width: 1024px){
-        height: 125rem;
+        height: 80rem;
+        width: 78%;
+        margin:auto;
+        margin-top:2rem;
     }
     @media only screen and (max-width: 768px){
         display: block;
@@ -104,7 +108,7 @@ const Name = styled.div`
         font-size: 1rem;
     }
     @media only screen and (max-width: 1024px){
-        font-size: 0.75rem;
+        font-size: 0.8rem;
     }
     @media only screen and (max-width: 768px){
         font-size:1rem;

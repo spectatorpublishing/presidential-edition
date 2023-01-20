@@ -29,7 +29,8 @@ const ArticleImg = styled.img`
   margin: 24px 0px;
   position: static;
   width: 20vw;
-  height: 15vw;
+  height: 14vw;
+  object-fit:cover;
   left: 8px;
   top: 8px;
   box-shadow: 6px 6px 10px rgba(0, 0, 0, 0.5);

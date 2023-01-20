@@ -182,88 +182,20 @@ export const credits = {
         "title": "Deputy Copy Editor"
       },
       {
-        "staff_name": "Ainhoa Petri-Hidalgo",
-        "title": "Associate Copy Editor"
-      },
-      {
-        "staff_name": "Andrea Rodriguez",
-        "title": "Associate Copy Editor"
-      },
-      {
-        "staff_name": "August Phillips",
-        "title": "Associate Copy Editor"
-      },
-      {
         "staff_name": "Emma Grungold",
         "title": "Associate Copy Editor"
       },
       {
-        "staff_name": "Grace O'Malley ",
-        "title": "Associate Copy Editor"
-      },
-      {
         "staff_name": "Lanah Wyne",
         "title": "Associate Copy Editor"
       },
       {
-        "staff_name": "Lizzy Yee",
-        "title": "Associate Copy Editor"
-      },
-      {
-        "staff_name": "Lanah Wyne",
-        "title": "Associate Copy Editor"
-      },
-      {
-        "staff_name": "Neena Dzur",
-        "title": "Associate Copy Editor"
-      },
-      {
-        "staff_name": "Reena Bromberg Gaber",
-        "title": "Associate Copy Editor"
-      },
-      {
-        "staff_name": "Safia Aladlouni",
-        "title": "Associate Copy Editor"
-      },
-      {
-        "staff_name": "Sophia Lee",
-        "title": "Associate Copy Editor"
-      },
-      {
-        "staff_name": "Kaela Aalto",
-        "title": "Preslotter"
-      },
-      {
         "staff_name": "Rose Leveen",
-        "title": "Preslotter"
+        "title": "Associate Copy Editor"
       },
       {
-        "staff_name": "August Phillips",
-        "title": "Preslotter"
-      },
-      {
-        "staff_name": "Emily Stone",
-        "title": "Preslotter"
-      },
-      {
-        "staff_name": "Emma Moralez",
-        "title": "Preslotter"
-      },
-      {
-        "staff_name": "Natalie DiFusco",
-        "title": "Preslotter"
-      },
-      {
-        "staff_name": "Posey Chiddix",
-        "title": "Preslotter"
-      },
-      {
-        "staff_name": "Pun Setpattanachai",
-        "title": "Preslotter"
-      },
-      {
-        "staff_name": "Rose Leveen",
-        "title": "Preslotter"
+        "staff_name": "Ainhoa Petri-Hidalgo",
+        "title": "Associate Copy Editor"
       },
       {
         "staff_name": "Pun Setpattanachai",
@@ -271,6 +203,10 @@ export const credits = {
       },
       {
         "staff_name": "Sally Kaye",
+        "title": "Preslotter"
+      },
+      {
+        "staff_name": "Emma Moralez",
         "title": "Preslotter"
       }
     ],

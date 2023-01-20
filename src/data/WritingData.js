@@ -119,9 +119,25 @@ const WritingData = {
       title:
         "New president, same exploitative institution",
       link: "https://www.columbiaspectator.com/opinion/2023/01/19/new-president-same-exploitative-institution/",
-      author: "Paul Brown, Claire Warner, Nadeem Mansour",
+      author: "Paul Brown, Claire Warner, and Nadeem Mansour",
       img: "https://cloudfront-us-east-1.images.arcpublishing.com/spectator/SKAQO7VCSZB6LNCI6OAJWYTT5Q.jpg",
-      type:"right"
+      type:"normal"
+    },
+    {
+      title:
+        "Can Nemat Shafik bring a new social contract to Columbia?",
+      link: "https://www.columbiaspectator.com/opinion/2023/01/19/can-nemat-shafik-bring-a-new-social-contract-to-columbia/",
+      author: "Jonas Du",
+      img: "https://cloudfront-us-east-1.images.arcpublishing.com/spectator/A3FG27PSMRDITOQXJTSQO3VAVQ.jpg",
+      type:"normal"
+    },
+    {
+      title:
+        "Why it matters that our new president is a baroness",
+      link: "https://www.columbiaspectator.com/opinion/2023/01/19/why-it-matters-that-our-new-president-is-a-baroness/",
+      author: "James Tsukada",
+      img: "https://cloudfront-us-east-1.images.arcpublishing.com/spectator/TN77PNEAA5CGLNJDMUGIJ6LH6Q.jpg",
+      type:"normal"
     },
   ],
   // photo: [
