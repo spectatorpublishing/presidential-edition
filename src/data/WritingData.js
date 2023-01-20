@@ -80,30 +80,16 @@ const WritingData = {
       type:"normal"
     },
   ],
-  // city: [
-  //   {
-  //     title:
-  //       "The student veteran dilemma: The difficulty of finding a new community after leaving one behind",
-  //     link: "https://www.columbiaspectator.com/opinion/2021/11/11/the-student-veteran-dilemma-the-difficulty-of-finding-a-new-community-after-leaving-one-behind/",
-  //     author: "Anthony Costanzo and Kevin Petersen",
-  //     img: "https://cloudfront-us-east-1.images.arcpublishing.com/spectator/WKZWQTETGRGLBJQYX2EEEDQDHE.jpg",
-  //     type:"normal"
-  //   },
-  //   {
-  //     title: "We served too: on the experiences of female veterans",
-  //     link: "https://www.columbiaspectator.com/opinion/2021/11/16/we-served-too-on-the-experiences-of-female-veterans/",
-  //     author: "Ebonnie Goodfield",
-  //     img: "https://cloudfront-us-east-1.images.arcpublishing.com/spectator/KSRNBP4LC5CMLMXWVIL34X7QZQ.jpg",
-  //     type:"normal"
-  //   },
-  //   {
-  //     title: "Ask Alma: Procrastinator’s karma, how do I cram for exams?",
-  //     link: "https://www.columbiaspectator.com/opinion/2021/11/18/ask-alma-procrastinators-karma-how-do-i-cram-for-exams/",
-  //     author: "Alma Mater",
-  //     img: "https://cloudfront-us-east-1.images.arcpublishing.com/spectator/7K6UJ47GK5DSRL75VVRWMY4HU4.gif",
-  //     type:"normal"
-  //   },
-  // ],
+  city: [
+    {
+      title:
+        "Bollinger’s tenure accentuated a contentious, decades-long history between Columbia and West Harlem, some residents say",
+      link: "https://www.columbiaspectator.com/city-news/2023/01/19/bollingers-tenure-accentuated-a-contentious-decades-long-history-between-columbia-and-west-harlem-some-residents-say/",
+      author: "Isha Banerjee, Amira Mckee, and Esther Sun",
+      img: "https://cloudfront-us-east-1.images.arcpublishing.com/spectator/JXNXQU4YCVFRPCNKQRORROX3HM.jpg",
+      type:"left"
+    }
+  ],
   opinion: [
     {
       title:
@@ -111,7 +97,7 @@ const WritingData = {
       link: "https://www.columbiaspectator.com/opinion/2023/01/18/so-the-university-president-elect-is-a-baroness-what-now/",
       author: "Liam Etti",
       img: "https://cloudfront-us-east-1.images.arcpublishing.com/spectator/LBDAZSQ4VVB2ZELXCUVTMGN7MY.jpg",
-      type:"right"
+      type:"normal"
     },
     {
       title:
@@ -119,7 +105,23 @@ const WritingData = {
       link: "https://www.columbiaspectator.com/opinion/2023/01/18/president-shafiks-tenure-could-strengthen-columbias-tradition-of-anticolonialism/",
       author: "HD Wright",
       img: "https://cloudfront-us-east-1.images.arcpublishing.com/spectator/QYKXTO25OJCKFPMRDL7HXLWTCQ.jpg",
-      type:"left"
+      type:"normal"
+    },
+    {
+      title:
+        "On transitions",
+      link: "https://www.columbiaspectator.com/opinion/2023/01/19/on-transitions/",
+      author: "Dhananjay Jagannathan",
+      img: "https://cloudfront-us-east-1.images.arcpublishing.com/spectator/3QR6BPBJ5JBM5LUUZFS66C42KM.jpeg",
+      type:"normal"
+    },
+    {
+      title:
+        "New president, same exploitative institution",
+      link: "https://www.columbiaspectator.com/opinion/2023/01/19/new-president-same-exploitative-institution/",
+      author: "Paul Brown, Claire Warner, Nadeem Mansour",
+      img: "https://cloudfront-us-east-1.images.arcpublishing.com/spectator/SKAQO7VCSZB6LNCI6OAJWYTT5Q.jpg",
+      type:"right"
     },
   ],
   // photo: [

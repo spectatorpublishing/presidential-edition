@@ -7,10 +7,10 @@ export const sections = [
         title: "University",
         url: "/#university",
     },
-    // {
-    //     title: "City",
-    //     url: "/#city",
-    // },
+    {
+        title: "City",
+        url: "/#city",
+    },
     {
         title: "Opinion",
         url: "/#opinion",
